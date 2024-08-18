@@ -1,0 +1,78 @@
+[33mcommit 85c208e61627befcdc349d10de4984fe4ddae95d[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: shubhanshu55 <shubhanshu.jain9@gmail.com>
+Date:   Sat Aug 17 21:32:29 2024 +0530
+
+    This is commit
+
+[33mcommit 856f1a623d02a596a79dc02c99082a85fb8b1a91[m
+Author: shubhanshu55 <shubhanshu.jain9@gmail.com>
+Date:   Sat Aug 17 21:25:18 2024 +0530
+
+    this is my 5 th commit
+
+[33mcommit 2883649512b82dce5d2802bb19f39923cf771ca1[m
+Merge: 7b43c9a d9fcdb8
+Author: shubhanshu55 <shubhanshu.jain9@gmail.com>
+Date:   Sat Aug 17 20:27:20 2024 +0530
+
+    Merge branch 'feature' of https://github.com/shubhanshu55/repo-learn-git into feature
+
+[33mcommit 7b43c9ae9e3d57fdd529469a90107d5433a4e13e[m
+Author: shubhanshu55 <shubhanshu.jain9@gmail.com>
+Date:   Sat Aug 17 20:26:34 2024 +0530
+
+    commit 4
+
+[33mcommit d9fcdb8698869d8d43fd9d3de9673919ae56a13e[m
+Merge: 332bdf5 cec12f5
+Author: shubhanshu55 <70105575+shubhanshu55@users.noreply.github.com>
+Date:   Sat Aug 17 20:24:36 2024 +0530
+
+    Merge pull request #2 from shubhanshu55/master
+    
+    Merge pull request #1 from shubhanshu55/feature
+
+[33mcommit cec12f5709d89358ee3ba1cd87b3caf5da4b8cc9[m
+Merge: 0341820 332bdf5
+Author: shubhanshu55 <70105575+shubhanshu55@users.noreply.github.com>
+Date:   Sat Aug 17 20:23:38 2024 +0530
+
+    Merge pull request #1 from shubhanshu55/feature
+    
+    commit 3
+
+[33mcommit 332bdf5539b184dcef057f099ac12bd29a919eee[m
+Author: shubhanshu55 <shubhanshu.jain9@gmail.com>
+Date:   Sat Aug 17 20:16:53 2024 +0530
+
+    commit 2
+
+[33mcommit 03418206cccaa8cc350b7b115988e7ee74a93cc7[m
+Author: shubhanshu55 <shubhanshu.jain9@gmail.com>
+Date:   Sat Aug 17 20:10:35 2024 +0530
+
+    this is commit 1
+
+[33mcommit cce0bc7ebd392288c6cc03d567c5f52d5a5a09b4[m
+Author: shubhanshu55 <shubhanshu.jain9@gmail.com>
+Date:   Sat Aug 17 19:28:56 2024 +0530
+
+    this is shubhanshu
+
+[33mcommit 961eee64f4046faf2e037741c83647f6b7b44c54[m
+Author: shubhanshu55 <70105575+shubhanshu55@users.noreply.github.com>
+Date:   Fri Aug 16 16:42:44 2024 +0530
+
+    Update README.md updated with new line
+
+[33mcommit f2a8cad56ec8bbd318675f20df9e451fd351fe13[m
+Author: shubhanshu55 <70105575+shubhanshu55@users.noreply.github.com>
+Date:   Fri Aug 16 16:41:00 2024 +0530
+
+    Update README.md
+
+[33mcommit 417d5428b196f658b6251c68cb24c2e0bb8f7224[m
+Author: shubhanshu55 <70105575+shubhanshu55@users.noreply.github.com>
+Date:   Fri Aug 16 16:37:04 2024 +0530
+
+    Initial commit
